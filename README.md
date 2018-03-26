@@ -1,6 +1,6 @@
 # tiny-blog
 
-> tiny blog1
+> tiny blog
 
 ## Build Setup
 
